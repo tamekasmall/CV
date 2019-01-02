@@ -19,7 +19,7 @@ Having the ability to explain and communicate ideas has been intrinsic to my way
 Journeying through code and growing as a software developer at Makers Academy has required me to continuously absorb information and learn new things daily.  I enjoy the challenge and the process of learning and I feel that I’m aware enough to identify areas in my knowledge and on it.
 
 #### Other Skills
-strategic thinking . Negotiation . Oranisation
+Strategic thinking . Negotiation . Oranisation
 
 Coordination . Microsoft Office . ADOBE CC
 
@@ -28,7 +28,7 @@ Coordination . Microsoft Office . ADOBE CC
 
 #### Makers Academy (November 2018 to March 2018)
 
-- full- time computer programmiung course
+- Full- time computer programmiung course
 
 #### Institute of Education, University of London,UK (October 2012 to June 2013)
 
@@ -52,7 +52,8 @@ City Lit Graphic design course
 ## Experience
 
 **Freelance Yoga & Fitness Instructor** (October 2011 - current)
-London, UK - Shanghai, China - Dubai, UAE - Guadeloupe 10.2011 – current
+-London, UK - Shanghai, China - Dubai, UAE - Guadeloupe
+
 *Instructor* 
 
 Working for a number of brands and studios teaching fitness classes and yoga. As well as contributing to written online health and wellness journals and articles.
@@ -60,7 +61,8 @@ Organising and coordinating with studios and clients for classes and events.
 Working with brands such as Nike and Balance Festival London as one of their ambassadors to connect with consumers and host events. Communicating with clients and studio managers to ensure classes are tailored to the cliental and also in keeping with the studios ethos.
 
 **Yoga Events** (January 2018 - April 2018)   
-Sainte-Anne, Guadeloupe
+-Sainte-Anne, Guadeloupe
+
 *Yoga Instructor*  
 
 Hosting and teaching weekly yoga event nights in Guadeloupe.
@@ -68,21 +70,25 @@ Organising the events and coordinating with food and venue partners.
 Communicating and maintaining connection with attending clients to build up rapport and small community.
 
 **EF English First / English Tutoring** (September 2009 - February 2012)    
-Shanghai, China
+-Shanghai, China
+
 *English Teacher*
 
 Teaching English to a variety of adult learners ranging in ability.
 Creating tailor made lesson plans for each group of students. Analysing results from students’ placement test to level students. Tutoring individuals and small groups from from 8yrs to adults.
 
 **OR Consulting** (July 2008 - June 2009)   
-London, UK
+-London, UK
+
 *Building Services Mechanical Engineer*  
 
 Undertaking training and research in new alternative energy technologies in order to better advise clients.
 Contributing to the increase in sustainability of clients’ projects by championing sustainable designs.
 
 **Atelier Ten** (April 2007 - May 2008)
-*Building Services Mechanical Engineer*  London, UK
+*Building Services Mechanical Engineer*
+
+-London, UK
 
 Calculating and sizing plant HVAC (heating, ventilation, air- conditioning and cooling) for both commercial and domestic projects.
 Liaising closely with electrical engineers, architects and clients to negotiate environmentally efficient projects.
